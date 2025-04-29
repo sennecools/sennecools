@@ -42,4 +42,4 @@ I'm a student passionate about full stack development, building micro-SaaS proje
 ---
 
 ### 💡 Projects
-- 🎯 Building [sennerd.com](https://sennerd.com) (coming soon), a network hub for my Minecraft
+- 🎯 Building [sennerd.com](https://sennerd.com) (coming soon), a network hub for my Minecraft servers
