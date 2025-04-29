@@ -18,8 +18,8 @@ I'm a student passionate about full stack development, building micro-SaaS proje
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sennecools&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennecools&layout=compact&theme=tokyonight&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sennecools&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennecools&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" />
 </p>
 
 ---
