@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-I'm a student passionate about full stack development, building micro-SaaS projects, and running modded Minecraft servers for the community.
+I'm a student passionate about full stack development, building micro-SaaS projects, and running modded Minecraft servers my little community (reached 300 members on  .
 
 > Currently learning: **React**, **Java** and managing my own local server infrastructure
 
