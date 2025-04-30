@@ -11,7 +11,7 @@
 ### 🧠 About Me
 I'm a student passionate about full stack development, building micro-SaaS projects, and running modded Minecraft servers for the community.
 
-> Currently learning: **React**, **Java**, and self-hosting + managing my own local server infrastructure
+> Currently learning: **React**, **Java** and managing my own local server infrastructure
 
 ---
 
