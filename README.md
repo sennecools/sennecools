@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senne</h1>
+<p align="center">📌 Belgium</p>
 <p align="center">💻 Full Stack Developer · 🛠 Builder of Things · 🎮 Minecraft Modded Server Host</p>
 
 <p align="center">
@@ -9,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-I'm a student passionate about full stack development, building micro-SaaS projects, and running modded Minecraft servers for my little community (300+ users so far)!
+I'm a student who likes designing and building my own things! Currently also running a modded Minecraft server network for my little community (300+ users so far)!
 
 > Currently learning: **React**, **Java** and managing my own local server infrastructure
 
