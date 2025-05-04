@@ -45,4 +45,4 @@ I'm a student who likes designing and building my own things! Currently also run
 ---
 
 ### 💡 Projects
-- 🎯 Building [sennerd.com](https://sennerd.com) (coming soon), a network hub for my Minecraft servers
+- 🎯 Building [SenNerd.com](https://sennerd.com) (coming soon), a network hub for my Minecraft servers
