@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Senne</h1>
+<h1 align="center">Hi 👋, I'm Senne Cools</h1>
 <p align="center">📌 Belgium</p>
 <p align="center">💻 Full Stack Developer · 🎮 Minecraft Modded Server Host</p>
 
