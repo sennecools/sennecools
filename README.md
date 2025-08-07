@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-I'm a student who likes designing and building my own things! Currently also running a modded Minecraft server network for my little community (700+ users so far)!
+I'm a student who likes designing and building my own things! Currently also running a modded Minecraft server network for my little community (750+ users so far)!
 
 > Currently learning: **React**, **Java** and managing my own local server infrastructure
 
@@ -19,8 +19,8 @@ I'm a student who likes designing and building my own things! Currently also run
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sennecools&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennecools&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats-zeta-two-26.vercel.app/api?username=sennecools&theme=dark&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-zeta-two-26.vercel.app/api/top-langs/?username=sennecools&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" />
 </p>
 
 ---
