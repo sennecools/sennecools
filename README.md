@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-I'm a student who likes designing and building my own things! Currently also running a modded Minecraft server network for my little community (750+ users so far)!
+I'm a student who likes designing and building my own things! Currently also running a modded Minecraft server network for my little community (850+ users so far)!
 
 > Currently learning: **React**, **Java** and managing my own local server infrastructure
 
